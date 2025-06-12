@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-z25(i&ky##o7_d1!f!zxmf+9gv_y)e3_ib!q%1#a%(e!gd!v^$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['musicdjangogit.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
