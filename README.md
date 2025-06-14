@@ -41,8 +41,11 @@ A web-based music platform built using Django. Users can browse, search, and pla
 
 # Future Improvements
 Add user registration and playlists
+
 Add comments/likes per track
+
 Integrate Spotify/Youtube Music APIs
+
 Improve music player UI with JS animations
 
 # Author
