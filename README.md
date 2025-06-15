@@ -49,7 +49,7 @@ Add user registration and playlists
 
 Add comments/likes per track
 
-Integrate Spotify/Youtube Music APIs
+Integrate with Spotify/Youtube Music APIs
 
 Improve music player UI with JS animations
 
