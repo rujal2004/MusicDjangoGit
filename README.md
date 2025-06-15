@@ -17,10 +17,15 @@ A web-based music platform built using Django. Users can browse, search, and pla
 ## Tech Stack
 
  **Framework**: Django (Python)
+ 
  **Frontend**: HTML, CSS, Bootstrap (Django templates)
+ 
  **Database**: SQLite (accessed and managed via Django Admin Panel)
+ 
  **Media Handling**: Django Static & Media Files
+ 
  **Admin Interface**: Django’s built-in Admin Panel for uploading and managing music
+ 
   **Deployment**: Render 
 
 # Installation
